@@ -39,6 +39,5 @@ body {
 }
 
 .underline {
-    border-bottom: 4px solid white;
+    text-decoration: underline;
 }
-   
